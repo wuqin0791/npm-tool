@@ -6,8 +6,8 @@
   "files": [
     "*.js"
   ],
-  "version": "1.0.0",
-  "description": "这是一个自定义的npm插件",
+  "version": "1.0.1",
+  "description": "自律小工具，管理工作中的小任务，可以增删改查",
   "main": "index.js",
   "author": "JeanneWu",
   "license": "MIT",
